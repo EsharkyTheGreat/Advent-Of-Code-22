@@ -7,7 +7,7 @@
         - code.lang
 ```
 
-| Problem | Language | Time |
-|---------|----------|------|
-| 1a | Rust | 0.44 |
-| 1b | Rust | 0.48 |
+| Problem | Language | Time | Author |
+|---------|----------|------|--------|
+| 1a | Rust | 0.44 | @EsharkyTheGreat |
+| 1b | Rust | 0.48 | @EsharkyTheGreat |
