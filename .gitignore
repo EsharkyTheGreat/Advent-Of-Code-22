@@ -1,0 +1,6 @@
+#General
+input.txt
+
+#Rust
+Cargo.lock
+target/
