@@ -8,14 +8,6 @@ fn main() {
             let hfr :usize = x.1.parse().unwrap();
             let lsr :usize = y.0.parse().unwrap();
             let hsr :usize = y.1.parse().unwrap();
-            println!("{}",first_range);
-            println!("{}",second_range);
-            println!("{}",lfr);
-            println!("{}",hfr);
-            println!("{}",lsr);
-            println!("{}",hsr);
-//            let frlen = hfr - lfr + 1;
-//            let srlen = hsr - lsr + 1;
             if (lfr >= lsr && hfr <= hsr) || (lsr >= lfr && hsr <= hfr) {
                 true
             }else{

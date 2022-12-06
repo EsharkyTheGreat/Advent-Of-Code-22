@@ -16,3 +16,5 @@
 | 2b | Rust | 0.001 | @EsharkyTheGreat |
 | 3a | Rust | 0.001 | @EsharkyTheGreat |
 | 3b | Rust | 0.001 | @EsharkyTheGreat |
+| 4a | Rust | 0.001 | @EsharkyTheGreat |
+| 4b | Rust | 0.001 | @EsharkyTheGreat |
