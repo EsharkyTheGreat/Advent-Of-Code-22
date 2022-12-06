@@ -14,3 +14,5 @@
 | 1a | cpp  | 0.002 | @EsharkyTheGreat |
 | 2a | Rust | 0.001 | @EsharkyTheGreat |
 | 2b | Rust | 0.001 | @EsharkyTheGreat |
+| 3a | Rust | 0.001 | @EsharkyTheGreat |
+| 3b | Rust | 0.001 | @EsharkyTheGreat |
